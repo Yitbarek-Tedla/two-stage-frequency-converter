@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="63" Class="CMCUProject" Path="" PathAbs="" ProjectType="1">
+<ProjectFolders/>
+<ProjectFiles/>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="-1" IntermediatePath="&amp;ASC..\..\..\..\..\..\..\01New\project1\" IntermediatePathAbs="&amp;ASCD:\books\01New\project1\" OutputPath="&amp;ASC..\..\..\..\..\..\..\01New\project1\" OutputPathAbs="&amp;ASCD:\books\01New\project1\" TargetFileType="6" SimPath="&amp;ASC..\..\New.X\dist\default\production\" SimPathAbs="&amp;ASCD:\books\EME books\Assginments\5th Year\APE\Final\New.X\dist\default\production\" SimFile="&amp;ASCNew.X.production.hex" CodeLoadType="0"/>
+</BuildSettings>
+</MCUProject>
