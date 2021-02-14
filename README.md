@@ -13,6 +13,6 @@ Here, a two stage frequency converter is designed so as to control speed of an i
 > - Then select the **.hex** file
 > - Press *ok* then enjoy simulating!!
 
-## Single Stage Converter Block Diagram 
-![Single Stage Converter](onest.png)
+## Two Stage Converter Block Diagram 
+![Single Stage Converter](twoStage.png)
 
