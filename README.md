@@ -14,5 +14,5 @@ Here, a two stage frequency converter is designed so as to control speed of an i
 > - Press *ok* then enjoy simulating!!
 
 ## Single Stage Converter Block Diagram 
-![Single Stage Converter](C:\Users\Yitbarek\Pictures\onest.png)
+![Single Stage Converter](onest.png)
 
